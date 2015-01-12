@@ -14,6 +14,9 @@ Memory (RAM) allocation, defragmentation and reorganization simulator written in
 - Heap and full memory report.
 
 
+![Memory Management](https://raw.githubusercontent.com/carlos-jenkins/memory-management/master/screenshot.png)
+
+
 License
 =======
 
