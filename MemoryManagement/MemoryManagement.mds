@@ -1,0 +1,16 @@
+<Combine name="MemoryManagement" fileversion="2.0">
+  <Configurations active="Debug|Any CPU">
+    <Configuration name="Debug|Any CPU" ctype="CombineConfiguration">
+      <Entry build="True" name="MemoryManagement" configuration="Debug|Any CPU" />
+    </Configuration>
+    <Configuration name="Release|Any CPU" ctype="CombineConfiguration">
+      <Entry build="True" name="MemoryManagement" configuration="Release|Any CPU" />
+    </Configuration>
+  </Configurations>
+  <StartMode startupentry="MemoryManagement" single="True">
+    <Execute type="None" entry="MemoryManagement" />
+  </StartMode>
+  <Entries>
+    <Entry filename="./MemoryManagement.csproj" />
+  </Entries>
+</Combine>
