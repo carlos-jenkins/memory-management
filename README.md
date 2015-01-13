@@ -5,11 +5,11 @@ Memory (RAM) allocation, defragmentation and reorganization simulator written in
 
 **Features:**
 
-- Allocation.
+- Allocation (first fit, worst fit and best are pending).
 - Disposal.
-- Memory graphication.
-- Defragmentation using different algorithms.
-- Memory reorganization (statistics).
+- Memory visualization.
+- Defragmentation using different algorithms (Mark-Sweep).
+- Memory reorganization (based on allocation statistics).
 - Memory layout files (.DAT plain text) loading.
 - Heap and full memory report.
 
